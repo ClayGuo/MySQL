@@ -1,2 +1,2 @@
-# MySQL Innstall Instruction
+# MySQL Install Instruction
 MySQL
